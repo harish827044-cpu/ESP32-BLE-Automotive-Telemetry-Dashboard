@@ -32,3 +32,9 @@ This project simulates vehicle telemetry data and displays parameters such as sp
 - MQTT cloud dashboard
 - Mobile app support
 - Data logging and analytics
+
+## How to Run
+1. Open `index.html` in a browser.
+2. Ensure Bluetooth is enabled on the system.
+3. Connect to the ESP32 BLE device.
+4. View real-time telemetry parameters on the dashboard.
