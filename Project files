@@ -1,0 +1,7 @@
+## Project Files
+
+| File | Description |
+|------|-------------|
+| `index.html` | Web dashboard user interface |
+| `app.js` | BLE communication and telemetry visualization logic |
+| `README.md` | Project documentation |
