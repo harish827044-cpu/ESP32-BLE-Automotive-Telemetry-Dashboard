@@ -38,3 +38,18 @@ This project simulates vehicle telemetry data and displays parameters such as sp
 2. Ensure Bluetooth is enabled on the system.
 3. Connect to the ESP32 BLE device.
 4. View real-time telemetry parameters on the dashboard.
+## Project Files
+
+| File | Description |
+|------|-------------|
+| `index.html` | Web dashboard user interface |
+| `app.js` | BLE communication and telemetry visualization logic |
+| `README.md` | Project documentation |
+
+## Skills Demonstrated
+
+- Bluetooth Low Energy communication
+- Real-time telemetry visualization
+- Automotive IoT dashboard development
+- JavaScript-based frontend logic
+- Embedded systems project documentation   
